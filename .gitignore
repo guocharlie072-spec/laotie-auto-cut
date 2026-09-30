@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 媒体缓存（技能归一化产物）
+__jycache__/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 临时/日志
+*.log
